@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularContactCRUDApi/AngularContactCRUDApi/bin/Debug/net8.0
+/AngularContactCRUDApi/AngularContactCRUDApi/obj
+/AngularContactCRUDWeb/.vscode
+/AngularContactCRUDApi/.vs/AngularContactCRUDApi/v17
+/.vscode
+/.vs
+/AngularContactCRUDApi/.vs
